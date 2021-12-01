@@ -7,5 +7,9 @@ mc
 htop
 wget
 
+mpv
+smplayer
+qnapi
+
 redis
 vpnc
